@@ -1,19 +1,12 @@
 # nisema_project
 
-A weather test app for Nimesa Technologies
+A weather test app for Nimesa Technologies. This whole project is build in Flutter Framework which is based on dart programming language.
 
 # Screenshots of the App
 
 ![](Screenshots/nimesa%201.PNG) ![](Screenshots/nimesa%202.PNG) ![](Screenshots/nimesa%203.PNG) ![](Screenshots/nimesa%204.PNG) ![](Screenshots/nimesa%205.PNG)![](Screenshots/nimesa%206.PNG)
 ## Getting Started
 
-In this project the user have to enter the date in the given format and then click on below options to see the results.
+In this project the user have to enter the date in the given format and then click on below options to see the results. As we can only ask date from the user therefore the result produce can vary because the API provided given contains same date with different time containing different temprature,pressure and wind speed.
+The exit button can close the app on clicking.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference
