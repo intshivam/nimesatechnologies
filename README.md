@@ -1,10 +1,13 @@
 # nisema_project
 
-A new Flutter project.
+A weather test app for Nimesa Technologies
 
+# Screenshots of the App
+
+![](Screenshots/nimesa%201.PNG) ![](Screenshots/nimesa%202.PNG) ![](Screenshots/nimesa%203.PNG) ![](Screenshots/nimesa%204.PNG) ![](Screenshots/nimesa%205.PNG)![](Screenshots/nimesa%206.PNG)
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this project the user have to enter the date in the given format and then click on below options to see the results.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -13,4 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on mobile development, and a full API reference
